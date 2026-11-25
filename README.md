@@ -40,9 +40,9 @@ Predict on test data, plot actual vs. predicted prices.
 
 ## PROGRAM
 
-### Name: SUDHARSANAN U
+### Name: SANJAYKUMAR B
 
-### Register Number: 212224230276
+### Register Number: 212224230242
 
 ```python
 import numpy as np
